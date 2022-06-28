@@ -48,4 +48,14 @@
 47. Where's My Internet https://open.kattis.com/problems/wheresmyinternet
 48. Which is Greater https://open.kattis.com/problems/whichisgreater
 49. Wizard of Odds https://open.kattis.com/problems/wizardofodds
-50.
+50. Greetings! https://open.kattis.com/problems/greetings2
+51. Grass Seed Inc. https://open.kattis.com/problems/grassseed
+52. GCVWR https://open.kattis.com/problems/gcvwr
+53. FTI https://open.kattis.com/problems/fyi
+54. FizzBuzz https://open.kattis.com/problems/fizzbuzz
+55. Finding An A https://open.kattis.com/problems/findingana
+56. Filip https://open.kattis.com/problems/filip
+57. Faktor https://open.kattis.com/problems/faktor
+58. Eye of Sauron https://open.kattis.com/problems/eyeofsauron
+59. Electrical Outlets https://open.kattis.com/problems/electricaloutlets
+60. Digit Swap https://open.kattis.com/problems/digitswap
